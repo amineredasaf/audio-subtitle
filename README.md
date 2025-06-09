@@ -24,9 +24,9 @@ This project provides a simple API that accepts audio files (MP3, WAV, etc.) and
 
 ## 🧪 Quick Setup
 
-1. **Clone the repo** (or copy the files):
+1. **Clone the repo** https://github.com/amineredasaf/audio-subtitle.git:
 
 2. **Make setup script executable** and run it:
    ```bash
-   chmod +x requirement
-   ./requirement
+   chmod +x requirement.sh
+   ./requirement.sh
