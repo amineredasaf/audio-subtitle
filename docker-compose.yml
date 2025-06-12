@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  audio-sub:
+    image: amineredasaf/audio-sub:0.1
+    ports:
+      - "4001:8000"
+    networks:
+      - shared-net
+    # env_file:
+    #   - .env
+
+networks:
+  shared-net:
+    external: true
