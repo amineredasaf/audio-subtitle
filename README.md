@@ -1,5 +1,9 @@
 # 🎧 Audio Transcription API with Vosk + FastAPI
 
+"In the process of uploading my abandoned project from my PC that I never pushed."
+
+----
+
 This project provides a simple API that accepts audio files (MP3, WAV, etc.) and returns subtitle content in SRT format using the [Vosk](https://alphacephei.com/vosk/) speech recognition engine.
 
 ---
